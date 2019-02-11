@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.info('Running on port 50451');
+  console.info('Running on port 3000');
 });
 
 // routes
